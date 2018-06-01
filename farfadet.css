@@ -1,0 +1,93 @@
+div.tlo
+{
+	width: 1000px;
+	margin-left: auto;
+	margin-right: auto;
+	background-color: green;
+}
+body
+{ 
+	background-color:lightgreen;
+}
+a
+{	
+	color:white;
+}
+div.banner
+{
+	height:180px;
+	text-align: center;
+	margin: 20px 20px 20px 20px;
+	background-color: rgb(255, 213, 162);
+}
+div.menu{
+	
+	width: 1000px;
+	height: 28px;
+	position: relative;
+	display: inline-block;
+	color: white;
+	
+}
+
+
+div.menu_1{
+	font-size: 150%;
+	text-align: center;
+	background-color: rgb(191,112,17);
+	width: 25%;
+	float: left;
+	
+}
+div.menu_2{
+	background-color: rgb(191,112,17);
+	text-align: center;
+	font-size: 150%;
+	width: 25%;
+	float: left;
+}
+div.menu_3{
+	background-color: rgb(191,112,17);
+	text-align: center;
+	font-size: 150%;
+	width: 25%;
+	float: left;
+}
+div.menu_4{
+	text-align: center;
+	background-color: rgb(191,112,17);
+	font-size: 150%;
+	width: 25%;
+	float: left;
+}
+div.blok_glowny{
+	background-color:green;
+	min-height: 400px;
+	text-indent:20px;
+	margin-top:-10px;
+	
+}
+div.blok_tresc{
+	min-height:350px;
+	margin-top:20px;
+}
+h1{
+	text-align:center;
+}
+div.stopka{
+	clear: both;
+	background-color: rgb(191,112,17);
+	color: white;
+	font-size: 150%;
+	text-align: right;
+	padding: 8px;
+}
+ol{
+	font-weight: bold;
+}
+button{
+	background-color: brown;
+	border: 12px dotted brown;
+	color:white;
+	margin: 10px 10px 10px 10px;
+}
