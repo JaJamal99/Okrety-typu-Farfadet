@@ -1,4 +1,4 @@
-div.tlo
+#strona
 {
 	width: 1000px;
 	margin-left: auto;
@@ -30,36 +30,6 @@ div.menu{
 	
 }
 
-
-div.menu_1{
-	font-size: 150%;
-	text-align: center;
-	background-color: rgb(191,112,17);
-	width: 25%;
-	float: left;
-	
-}
-div.menu_2{
-	background-color: rgb(191,112,17);
-	text-align: center;
-	font-size: 150%;
-	width: 25%;
-	float: left;
-}
-div.menu_3{
-	background-color: rgb(191,112,17);
-	text-align: center;
-	font-size: 150%;
-	width: 25%;
-	float: left;
-}
-div.menu_4{
-	text-align: center;
-	background-color: rgb(191,112,17);
-	font-size: 150%;
-	width: 25%;
-	float: left;
-}
 div.blok_glowny{
 	background-color:green;
 	min-height: 400px;
@@ -71,16 +41,15 @@ div.blok_tresc{
 	min-height:350px;
 	margin-top:20px;
 }
-h1{
-	text-align:center;
-}
-div.stopka{
-	clear: both;
-	background-color: rgb(191,112,17);
-	color: white;
-	font-size: 150%;
-	text-align: right;
-	padding: 8px;
+#stopka{
+	/*clear: both;*/
+	background-color: lightblue;
+	color: red;
+	width: 800px;
+	font-size: 12px;
+	font-family: Courier;
+	text-align: center;
+	
 }
 ol{
 	font-weight: bold;
