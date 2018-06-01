@@ -1,45 +1,33 @@
-#strona
-{
-	width: 1000px;
+#strona{
+	width: 800px;
 	margin-left: auto;
 	margin-right: auto;
 	background-color: green;
 }
-body
-{ 
-	background-color:lightgreen;
+#naglowek{
+	width: 800px;
+	background-color: grey;
 }
-a
-{	
-	color:white;
-}
-div.banner
-{
-	height:180px;
-	text-align: center;
-	margin: 20px 20px 20px 20px;
-	background-color: rgb(255, 213, 162);
-}
-div.menu{
+#menu{
 	
-	width: 1000px;
-	height: 28px;
-	position: relative;
-	display: inline-block;
-	color: white;
-	
+	width: 25%;
+	height: 500px;
+	/*position: relative;
+	display: inline-block;*/
+	background-color: #006400;
 }
-
-div.blok_glowny{
-	background-color:green;
-	min-height: 400px;
+#zawartosc{
+	width: 75%;
+	background-color:lightgrey;
+	font-family: Arial;
+	color: blue;
+	line-height: 150%;
+	text-align: justify;
+	font-size: 14px;
+	/*min-height: 400px;
 	text-indent:20px;
-	margin-top:-10px;
+	margin-top:-10px;*/
 	
-}
-div.blok_tresc{
-	min-height:350px;
-	margin-top:20px;
 }
 #stopka{
 	/*clear: both;*/
@@ -50,7 +38,4 @@ div.blok_tresc{
 	font-family: Courier;
 	text-align: center;
 	
-}
-ol{
-	font-weight: bold;
 }
